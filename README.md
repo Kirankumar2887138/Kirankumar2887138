@@ -1,44 +1,49 @@
-# Kiran Kumar Gaddi — Cybersecurity Portfolio
-
-> Hands-on projects in **SOC/Blue Team**, **Cloud Security (AWS/Azure)**, **GRC**, and **AI Security**.  
-> Built to demonstrate practical skills beyond certifications (Google Cybersecurity Professional Certificate; ISC2 CC prep).
-
-## 🔎 What you'll find
-- **SOC Detection Lab** — Splunk & Microsoft Sentinel detections, KQL/SPL queries, incident write-ups.
-- **AWS Cloud Security Lab** — IAM, CloudTrail, GuardDuty, Security Hub, WAF demos with IaC where possible.
-- **Vulnerability Management** — Nessus Essentials/Qualys scans, triage & remediation tracking.
-- **GRC Policy Pack** — NIST CSF / 800-53 mappings, risk register, policies & procedures.
-- **AI Security Demos** — LLM prompt-injection detection, model/pipe hardening notes using MITRE ATLAS.
-
-## 📁 Repository Map
-```
-.
-├── 01-soc-detection-lab/
-├── 02-aws-cloud-security-lab/
-├── 03-vuln-management-lab/
-├── 04-grc-policy-pack/
-└── 05-ai-security-demos/
-```
-
-## ✅ Hiring Manager Highlights
-- Real **detections** (logs → query → alert → response).
-- Cloud **security controls** configured with screenshots and reproducible steps.
-- **Risk register** and policy samples aligned to NIST functions.
-- **Before/After** evidence for vulnerabilities with remediation proof.
-- Short **postmortems** using the same structure every time.
-
-## 🧰 Tech Used
-Splunk · Microsoft Sentinel (KQL) · ELK · AWS IAM/CloudTrail/GuardDuty/Security Hub/WAF · Azure Entra ID & Defender · Nessus/Qualys · Python · Bash · MITRE ATT&CK/ATLAS · NIST CSF & 800-53
-
-## 🧭 How to Navigate
-Each folder has a README with:
-- **Objective** (what skill is demonstrated)
-- **Environment** (how to reproduce the lab)
-- **Steps** (commands, queries, screenshots)
-- **Findings** (what was detected/fixed)
-- **Artifacts** (scripts, dashboards, exports)
-- **Lessons learned** (1–3 bullets)
+<h1 align="center">Hi 👋, I'm Kiran Kumar Gaddi</h1>
+<h3 align="center">Cybersecurity & GRC Enthusiast | SOC • Cloud Security • Governance, Risk & Compliance</h3>
 
 ---
 
-_Last updated: 2025-09-17_
+### 👨‍💻 About Me
+I'm a recent **Master's in Cybersecurity** graduate from **Saint Peter’s University** with a passion for defending cloud and hybrid environments.  
+I enjoy building detection labs, hardening cloud accounts, and documenting security controls aligned with **NIST CSF & 800-53**.
+
+* 🌱 Currently sharpening skills in **AWS Security**, **Splunk**, **Microsoft Sentinel**, and **Python automation**  
+* 🎯 Goal: Entry-level **SOC / Cloud Security / GRC Analyst** role  
+* ⚡ Fun fact: I love exploring new tech gear and drones when I’m not in a lab
+
+---
+
+### 💼 Experience
+* **Cyber Security Analyst (Intern & Full-time)** – Coupa Software *(2025)*  
+  * Conducted risk assessments and SOC log analysis (course-based internship)
+* **Junior Cyber Security Engineer** – Sagesoft Solutions *(2021-2023, India)*  
+  * Drafted and implemented NIST-aligned policies and SOPs
+
+---
+
+### 🛠 Technical Skill Set
+`Splunk` `Microsoft Sentinel (KQL)` `AWS Security (IAM, GuardDuty, Security Hub, WAF)`  
+`Azure Entra ID` `Python` `Bash` `Linux` `Nessus` `Qualys` `NIST CSF / 800-53`  
+
+---
+
+### 🎓 Certifications
+* Google **Cybersecurity Professional Certificate**  
+* Splunk Core User (Getting Data In, Using Fields, Intro to Splunk)  
+* ISC2 **Certified in Cybersecurity (CC)** – *In progress*
+
+---
+
+### 📈 GitHub Stats
+![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-github-username>&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kiran%20Kumar%20Gaddi-blue?logo=linkedin)](https://www.linkedin.com/in/kirangaddi11)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme)](https://tryhackme.com/p/YourTryHackMeUser)  
+
+---
+
+> “Securing the digital world one log at a time.”
