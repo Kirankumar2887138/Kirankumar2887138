@@ -20,8 +20,6 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 - 🎯 **Professional Goal:** Continue advancing as a **Cloud Security / SOC / GRC specialist**, driving enterprise security architecture and threat-hunting programs.  
 - ⚡ **Fun fact:** When I’m off the clock, you’ll find me testing new drone tech or exploring cutting-edge security tools for fun.
 
-
-
 ---
 
 ## 💼 Professional Experience  
@@ -59,7 +57,6 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 - Labs on **Blockchain security (Hyperledger, IBM Blockchain)** and **Advanced Offensive Security**.  
 - Hands-on experience with **Splunk, SIEM, SQL, and Linux hardening** through Google Cybersecurity Professional Certificate.
 
-
 ---
 
 ## 🛠 Skills
@@ -87,6 +84,33 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 
 ---
 
+## 🌱 Currently Learning & Trending Skills  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cloud%20Security-AWS%20GuardDuty%20|%20Security%20Hub%20|%20IAM-FF9900?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-KQL%20Detections-0078D4?style=for-the-badge&logo=microsoftazure" />
+  <img src="https://img.shields.io/badge/Splunk-Advanced%20SPL%20Queries-000000?style=for-the-badge&logo=splunk" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/EDR/XDR-CrowdStrike%20Falcon%20|%20Defender%20for%20Endpoint-EA2D2D?style=for-the-badge&logo=crowdsource" />
+  <img src="https://img.shields.io/badge/Vulnerability%20Mgmt-Nessus%20|%20Qualys-3776AB?style=for-the-badge&logo=tenable" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Automation-Python%20|%20Bash-3776AB?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-MITRE%20ATT%26CK%20|%20MITRE%20ATLAS-FF1B2D?style=for-the-badge&logo=mitre" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Security-LLM%20Adversarial%20Testing%20|%20Prompt%20Injection%20Defense-8A2BE2?style=for-the-badge&logo=openai" />
+</p>
+
+> 🛡️ **Focus for 2025:**  
+> Mastering **cloud-native threat detection**, **EDR/XDR operations**, and **AI/LLM security** to stay ahead in the next wave of cybersecurity challenges.
+
+---
+
 ## 🚀 Projects (from my resume)
 
 | Project | Description |
@@ -96,8 +120,6 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 | [Malware Analysis & Defense](https://github.com/Kirankumar2887138/malware-analysis-defense) | Static/dynamic analysis with Wireshark & ProcMon; detection opportunities and write-ups |
 | [Smart Contract Development](https://github.com/Kirankumar2887138/smart-contract-development) | Solidity dApps with Hyperledger/Multichain; secure patterns & threat model notes |
 | [IoT Substation Monitoring](https://github.com/Kirankumar2887138/iot-substation-monitoring) | Cloud-assisted IoT monitoring with alerting; architecture & security considerations |
-
-> Tip: If a repo isn’t created yet, make it public with the same name and add a README + screenshots—links will start working instantly.
 
 ---
 
@@ -148,9 +170,5 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 
 - 💼 **GitHub Portfolio**  
   [View All Projects](https://github.com/Kirankumar2887138)
-
-
-
-
 
 <!-- End of README -->
