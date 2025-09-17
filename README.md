@@ -111,15 +111,91 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 
 ---
 
-## 🚀 Projects 
+### 🚀 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| [AI Shield Sentinel](https://github.com/Kirankumar2887138/ai-shield-sentinel) | Dual-layer phishing detection: XGBoost URL features + real-time email-header validation |
-| [WannaCry Ransomware Simulation](https://github.com/Kirankumar2887138/wannacry-ransomware-simulation) | Safe lab to study delivery, encryption flow, and lateral movement; mapped to MITRE ATT&CK |
-| [Malware Analysis & Defense](https://github.com/Kirankumar2887138/malware-analysis-defense) | Static/dynamic analysis with Wireshark & ProcMon; detection opportunities and write-ups |
-| [Blockchain technology](https://github.com/Kirankumar2887138/smart-contract-development) | Solidity dApps with Hyperledger/Multichain; secure patterns & threat model notes |
-| [IoT Substation Monitoring](https://github.com/Kirankumar2887138/iot-substation-monitoring) | Cloud-assisted IoT monitoring with alerting; architecture & security considerations |
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=70&section=header&text=Security%20&%20Cloud%20Projects&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<details open>
+<summary>🛡️ <b>AI Shield Sentinel</b> – Phishing Detection (XGBoost + VirusTotal API)</summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech-Python%20|%20Machine%20Learning%20|%20API-blue?style=for-the-badge">
+</p>
+
+- Built a **dual-layer phishing detection engine** using **XGBoost** for URL feature analysis and a **real-time email-header validator** with VirusTotal API.  
+- Reduced false positives through feature engineering and automated retraining pipelines.  
+- <a href="https://github.com/Kirankumar2887138/ai-shield-sentinel"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
+
+</details>
+
+---
+
+<details>
+<summary>💣 <b>WannaCry Ransomware Simulation</b> – MITRE ATT&CK Mapping</summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech-Windows%20Lab%20|%20Reverse%20Engineering-red?style=for-the-badge">
+</p>
+
+- Created a **safe, isolated lab** to simulate WannaCry’s infection chain and lateral movement.  
+- Mapped every step to the **MITRE ATT&CK framework** to document persistence and privilege-escalation tactics.  
+- <a href="https://github.com/Kirankumar2887138/wannacry-ransomware-simulation"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
+
+</details>
+
+---
+
+<details>
+<summary>🔍 <b>Malware Analysis & Defense</b></summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech-Wireshark%20|%20ProcMon%20|%20Python-green?style=for-the-badge">
+</p>
+
+- Performed **static and dynamic malware analysis** with Wireshark and ProcMon.  
+- Authored detection rules and created a defense playbook for SOC integration.  
+- <a href="https://github.com/Kirankumar2887138/malware-analysis-defense"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
+
+</details>
+
+---
+
+<details>
+<summary>⛓️ <b>Blockchain Security & Smart Contracts</b></summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech-Solidity%20|%20Hyperledger%20|%20Multichain-purple?style=for-the-badge">
+</p>
+
+- Designed and deployed **secure dApps** with Hyperledger and Multichain.  
+- Performed threat modeling and implemented **secure smart-contract patterns** to prevent re-entrancy and overflow attacks.  
+- <a href="https://github.com/Kirankumar2887138/smart-contract-development"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
+
+</details>
+
+---
+
+<details>
+<summary>🌐 <b>IoT Substation Monitoring</b></summary>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech-IoT%20|%20Cloud%20|%20AWS-orange?style=for-the-badge">
+</p>
+
+- Engineered a **cloud-assisted IoT monitoring system** for real-time alerts in electric sub-stations.  
+- Integrated security considerations—data encryption, secure MQTT messaging, and anomaly detection.  
+- <a href="https://github.com/Kirankumar2887138/iot-substation-monitoring"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
+
+</details>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kirankumar2887138&theme=react-dark&custom_title=Project%20Contribution%20Graph" alt="Contribution Graph"/>
+</p>
+
 
 ---
 
