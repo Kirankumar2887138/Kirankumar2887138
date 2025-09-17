@@ -51,4 +51,11 @@ I enjoy threat detection, risk assessments, and building automated defenses.
 
 ### 📂 Featured Projects
 <p align="left">
-  <a href="https:
+  <a href="https://github.com/Kirankumar2887138/soc-detection-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirankumar2887138&repo=soc-detection-lab&theme=radical" />
+  </a>
+  <a href="https://github.com/Kirankumar2887138/aws-cloud-security-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirankumar2887138&repo=aws-cloud-security-lab&theme=radical" />
+  </a>
+</p>
+
