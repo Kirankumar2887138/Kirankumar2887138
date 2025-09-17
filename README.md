@@ -24,13 +24,41 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 
 ---
 
-## 💼 Experience
-**Cyber Security Analyst — Coupa** *(2025 – Present)*  
-- Risk assessments aligned with **NIST CSF / RMF / 800-53**  
-- Cloud & on-prem monitoring with **Splunk** and **Microsoft Sentinel**
+## 💼 Professional Experience  
 
-**Junior Cyber Security Engineer — Sagesoft Solutions** *(2021 – 2023)*  
-- Built and maintained **NIST-aligned** policies/SOPs and supported compliance activities
+### 🚀 Cyber Security Analyst &nbsp;|&nbsp; [Coupa Software](https://www.coupa.com/)  
+*Jul 2025 – Present · Remote (USA)*  
+
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk)  
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure)  
+![AWS](https://img.shields.io/badge/-AWS%20Security-232F3E?style=flat-square&logo=amazon-aws)  
+
+- Lead **cloud & on-prem SOC monitoring**, building Splunk and KQL detections for advanced threats.  
+- Perform **enterprise risk assessments** aligned with **NIST CSF, RMF, FedRAMP, and ISO 27001**.  
+- Harden AWS and Azure workloads using **GuardDuty, Security Hub, CloudTrail, and IAM least-privilege**.  
+- Collaborate with DevOps teams to embed security into CI/CD and automate response playbooks.
+
+---
+
+### 🛡️ Junior Cyber Security Engineer &nbsp;|&nbsp; [Sagesoft Solutions](https://www.sagesoftsolutions.com/)  
+*Jan 2021 – Jul 2023 · Remote (India)*  
+
+![NIST](https://img.shields.io/badge/-NIST%20CSF-0A0A0A?style=flat-square)  
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)  
+
+- Designed and implemented **NIST-aligned security policies** and standard operating procedures.  
+- Supported internal audits and **regulatory compliance** (HIPAA, PCI-DSS, CIS benchmarks).  
+- Built scripts to automate log analysis and vulnerability reporting with **Python & Bash**.
+
+---
+
+### 🎓 Graduate Research & Labs &nbsp;|&nbsp; Saint Peter’s University  
+*Feb 2024 – May 2025 · Jersey City, NJ*  
+
+- **Capstone Project – “AIShield Sentinel”**: Phishing detection using XGBoost & VirusTotal API.  
+- Labs on **Blockchain security (Hyperledger, IBM Blockchain)** and **Advanced Offensive Security**.  
+- Hands-on experience with **Splunk, SIEM, SQL, and Linux hardening** through Google Cybersecurity Professional Certificate.
+
 
 ---
 
