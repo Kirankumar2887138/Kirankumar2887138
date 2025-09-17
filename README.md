@@ -219,8 +219,11 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 ## 🎮 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirankumar2887138&theme=react-dark)
 
-![Snake – Dark](https://raw.githubusercontent.com/<user>/<repo>/output/github-snake-dark.svg#gh-dark-mode-only)  
-![Snake – Light](https://raw.githubusercontent.com/<user>/<repo>/output/github-snake.svg#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<user>/<repo>/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<user>/<repo>/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/<user>/<repo>/output/github-snake.svg">
+</picture>
 
 
 
