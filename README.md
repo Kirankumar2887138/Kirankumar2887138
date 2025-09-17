@@ -118,7 +118,7 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 | [AI Shield Sentinel](https://github.com/Kirankumar2887138/ai-shield-sentinel) | Dual-layer phishing detection: XGBoost URL features + real-time email-header validation |
 | [WannaCry Ransomware Simulation](https://github.com/Kirankumar2887138/wannacry-ransomware-simulation) | Safe lab to study delivery, encryption flow, and lateral movement; mapped to MITRE ATT&CK |
 | [Malware Analysis & Defense](https://github.com/Kirankumar2887138/malware-analysis-defense) | Static/dynamic analysis with Wireshark & ProcMon; detection opportunities and write-ups |
-| [Smart Contract Development](https://github.com/Kirankumar2887138/smart-contract-development) | Solidity dApps with Hyperledger/Multichain; secure patterns & threat model notes |
+| [Blockchain technology](https://github.com/Kirankumar2887138/smart-contract-development) | Solidity dApps with Hyperledger/Multichain; secure patterns & threat model notes |
 | [IoT Substation Monitoring](https://github.com/Kirankumar2887138/iot-substation-monitoring) | Cloud-assisted IoT monitoring with alerting; architecture & security considerations |
 
 ---
