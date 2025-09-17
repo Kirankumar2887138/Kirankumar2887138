@@ -10,13 +10,17 @@
 ---
 
 ## 🙋‍♂️ About Me
-I’m Kiran Kumar Gaddi, a recent **M.S. Cybersecurity** graduate from **Saint Peter’s University** with a strong foundation in **SOC operations**, **Cloud Security (AWS & Azure)**, and **Governance, Risk & Compliance (GRC)**.  
-I’m passionate about detecting/responding to threats, hardening cloud accounts, and aligning programs to **NIST CSF, RMF, ISO 27001**, and **MITRE ATT&CK**.
+I’m Kiran Kumar Gaddi, a **Cyber Security Analyst** with a Master’s in Cybersecurity from **Saint Peter’s University** and hands-on experience protecting enterprise environments in the U.S. market.  
+My work spans **SOC operations, cloud security engineering, and governance & risk management**, helping organizations stay ahead of today’s fast-evolving threat landscape.
 
-- 🎯 **Goal:** Entry-level **SOC / Cloud Security / GRC Analyst** roles
-- 🧰 **Key Tools:** Splunk, Microsoft Sentinel (KQL), AWS (IAM, GuardDuty, Security Hub, WAF), Azure Entra ID, Python, Bash, Nessus, Qualys
-- 🧪 **Hands-on Labs:** AI Shield Sentinel (phishing detector), Malware Analysis & Defense, Smart-Contract demos, IoT Substation Monitoring
-- ⚡ **Fun fact:** I automate boring tasks so I have more time to fly drones
+- 🛡️ **Current Role:** Delivering risk assessments, SOC monitoring, and incident response for a global SaaS company—aligning controls with **NIST CSF, RMF, and ISO 27001**.  
+- ☁️ **Cloud Security Focus:** Hardening AWS and Azure workloads, implementing GuardDuty, Security Hub, and Microsoft Sentinel detections.  
+- 📊 **Threat Detection & Response:** Building Splunk and KQL/SPL queries, tuning detections, and automating playbooks to reduce mean time to respond.  
+- 🤝 **Leadership & Collaboration:** Partnering with DevOps, engineering, and compliance teams to embed security into CI/CD and enterprise policy frameworks.  
+- 🎯 **Professional Goal:** Continue advancing as a **Cloud Security / SOC / GRC specialist**, driving enterprise security architecture and threat-hunting programs.  
+- ⚡ **Fun fact:** When I’m off the clock, you’ll find me testing new drone tech or exploring cutting-edge security tools for fun.
+
+
 
 ---
 
