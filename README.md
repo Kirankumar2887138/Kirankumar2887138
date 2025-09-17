@@ -111,7 +111,7 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 
 ---
 
-## 🚀 Projects (from my resume)
+## 🚀 Projects 
 
 | Project | Description |
 |--------|-------------|
