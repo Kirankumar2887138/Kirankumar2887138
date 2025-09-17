@@ -144,10 +144,11 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 
 ## 🔗 Quick Links
 - 📄 **My Résumé**  
-  [Download Current PDF](https://github.com/Kirankumar2887138/Kirankumar2887138/raw/main/Kiran_Resume_Now.pdf)
+  [View Online](https://github.com/Kirankumar2887138/Kirankumar2887138/blob/main/Kiran_Resume_Now.pdf)
 
 - 💼 **GitHub Portfolio**  
   [View All Projects](https://github.com/Kirankumar2887138)
+
 
 
 
