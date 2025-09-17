@@ -49,13 +49,14 @@ I enjoy threat detection, risk assessments, and building automated defenses.
 
 ---
 
-### 📂 Featured Projects
-<p align="left">
-  <a href="https://github.com/Kirankumar2887138/soc-detection-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirankumar2887138&repo=soc-detection-lab&theme=radical" />
-  </a>
-  <a href="https://github.com/Kirankumar2887138/aws-cloud-security-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kirankumar2887138&repo=aws-cloud-security-lab&theme=radical" />
-  </a>
-</p>
+## 🚀 Projects
+
+| Project | Description |
+|--------|------------|
+| [AI Shield Sentinel](https://github.com/Kirankumar2887138/ai-shield-sentinel) | Dual-layer phishing detection using XGBoost URL analysis + real-time email-header validation 【Resume Capstone】 |
+| [WannaCry Ransomware Simulation](https://github.com/Kirankumar2887138/wannacry-ransomware-simulation) | Safe lab simulation of WannaCry to study payload delivery, encryption process, and lateral movement |
+| [Malware Analysis & Defense](https://github.com/Kirankumar2887138/malware-analysis-defense) | Static & dynamic malware analysis using Wireshark and Process Monitor in a sandbox environment |
+| [Smart Contract Development](https://github.com/Kirankumar2887138/smart-contract-development) | Ethereum dApps with Solidity and Hyperledger Fabric/Multichain use cases for finance & supply chain |
+| [IoT Substation Monitoring](https://github.com/Kirankumar2887138/iot-substation-monitoring) | Cloud-assisted IoT system for real-time substation parameter monitoring and automated fault alerts |
+
 
