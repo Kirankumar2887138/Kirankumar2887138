@@ -231,8 +231,9 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
     <img src="https://img.shields.io/badge/TryHackMe-Kirankumar018-red?style=for-the-badge&logo=tryhackme">
   </a>
   <a href="mailto:kirankg2887138@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail">
-  </a>
+  <img src="https://img.shields.io/badge/Email-Me-green?style=for-the-badge&logo=gmail">
+</a>
+
 </p>
 
 <p align="center">
