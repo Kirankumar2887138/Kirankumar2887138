@@ -18,7 +18,8 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 - 📊 **Threat Detection & Response:** Building Splunk and KQL/SPL queries, tuning detections, and automating playbooks to reduce mean time to respond.  
 - 🤝 **Leadership & Collaboration:** Partnering with DevOps, engineering, and compliance teams to embed security into CI/CD and enterprise policy frameworks.  
 - 🎯 **Professional Goal:** Continue advancing as a **Cloud Security / SOC / GRC specialist**, driving enterprise security architecture and threat-hunting programs.  
-- ⚡ **Fun fact:** When I’m off the clock, you’ll find me testing new drone tech or exploring cutting-edge security tools for fun.
+- ⚡ **Fun fact:** When I’m off the clock, **learning how AI transforms cybersecurity**, keeping up with new models, SOC automation trends, and AI-driven detection techniques.
+
 
 ---
 
