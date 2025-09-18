@@ -182,11 +182,13 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 <summary>🌐 <b>IoT Substation Monitoring</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kirankumar2887138&show_icons=true&theme=tokyonight&cache_seconds=21600" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirankumar2887138&layout=compact&theme=tokyonight&cache_seconds=21600" />
-
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Kirankumar2887138&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&custom_title=Programming%20Languages&cache_seconds=21600&v=3"
+    height="155"
+    alt="languages graph"
+  />
 </p>
+
 
 - Engineered a **cloud-assisted IoT monitoring system** for real-time alerts in electric sub-stations.  
 - Integrated security considerations—data encryption, secure MQTT messaging, and anomaly detection.  
