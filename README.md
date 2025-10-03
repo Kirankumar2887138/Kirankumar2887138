@@ -81,7 +81,8 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 ## 🎓 Certifications
 - Google **Cybersecurity Professional Certificate**  
 - Splunk Fundamentals: *Intro to Splunk*, *Getting Data In*, *Using Fields*  
-- ISC2 **Certified in Cybersecurity (CC)** — *in progress*
+- ISC2 **Certified in Cybersecurity (CC)** — 
+- CompTIA Security+
 
 ---
 
