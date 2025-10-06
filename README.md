@@ -39,7 +39,7 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 
 ---
 
-### 🛡️ Junior Cyber Security Engineer &nbsp;|&nbsp; [Sagesoft Solutions](https://www.sagesoftsolutions.com/)  
+### 🛡️ Junior Cyber Security Engineer &nbsp;|&nbsp; [Sage softtech](https://www.sagesoftsolutions.com/)  
 *Jan 2021 – Jul 2023 · Remote (India)*  
 
 ![NIST](https://img.shields.io/badge/-NIST%20CSF-0A0A0A?style=flat-square)  
