@@ -7,27 +7,25 @@
 🚀 “Securing Cloud, Defending Data, Empowering Trust.”
 </h3>
 
+
 ---
-
-## 👋 About Me
-
-I’m **Kiran Kumar Gaddi**, a Cyber Security Analyst with a Master’s in Cybersecurity from Saint Peter’s University and hands-on experience safeguarding enterprise and cloud environments in the U.S. market.
+## 🙋‍♂️ About Me
+I’m **Kiran Kumar Gaddi**, a Cyber Security Analyst with a Master’s in Cybersecurity from **Saint Peter’s University**, with hands-on experience safeguarding enterprise and cloud environments in the U.S. market.
 
 My work spans **SOC operations**, **cloud security engineering**, and **governance, risk, and compliance (GRC)** — helping organizations stay ahead of today’s fast-evolving threat landscape.
 
----
+🛡️ **Current Role:** Delivering **risk assessments**, **SOC monitoring**, and **incident response** for a global SaaS company — aligning security controls with **NIST CSF**, **RMF**, **NIST SP 800-171 (Rev 2 / Rev 3 familiarity)**, and **ISO 27001** frameworks.  
 
-🛡️ **Current Role:** Delivering **risk assessments**, **SOC monitoring**, and **incident response** for a global SaaS company — aligning security controls with **NIST CSF**, **RMF**, **NIST SP 800-171 (Rev 2 / Rev 3 familiarity)**, and **ISO 27001** frameworks.
+☁️ **Cloud Security Focus:** Conducting **log analysis**, **vulnerability triage**, and **threat hunting** aligned with **MITRE ATT&CK**, while implementing **Zero Trust** principles using **Azure AD MFA**, **conditional access**, and **privileged access reviews**.  
 
-☁️ **Cloud Security Focus:** Conducting **log analysis**, **vulnerability triage**, and **threat hunting** aligned with **MITRE ATT&CK**, while implementing **Zero Trust** principles using **Azure AD MFA**, **conditional access**, and **privileged access reviews**.
+📊 **Threat Detection & Response:** Building **Splunk** and **KQL/SPL queries**, tuning detections, and automating playbooks to reduce mean time to respond (MTTR).  
 
-📊 **Threat Detection & Response:** Building **Splunk** and **KQL/SPL queries**, tuning detections, and automating playbooks to reduce mean time to respond (MTTR).
+🤝 **Leadership & Collaboration:** Partnering with **DevOps, engineering, and compliance teams** to embed security into **CI/CD pipelines**, while contributing to **GRC operations** using **Archer**, **OneTrust**, and **ServiceNow** to maintain audit readiness.  
 
-🤝 **Leadership & Collaboration:** Partnering with **DevOps, engineering, and compliance teams** to embed security into **CI/CD pipelines**, while contributing to **GRC operations** using **Archer**, **OneTrust**, and **ServiceNow** to maintain audit readiness.
-
-🎯 **Professional Goal:** To advance as a **Cloud Security / SOC / GRC Specialist**, driving secure architecture, continuous monitoring, and compliance with emerging **NIST SP 800-171 Rev 3** and **CMMC 2.0** standards.
+🎯 **Professional Goal:** To advance as a **Cloud Security / SOC / GRC Specialist**, driving secure architecture, continuous monitoring, and compliance with emerging **NIST SP 800-171 Rev 3** and **CMMC 2.0** standards.  
 
 ⚡ **Fun Fact:** When I’m off the clock, I love exploring how **AI and machine learning** are transforming cybersecurity — from automated detection to adaptive threat intelligence.
+
 
 
 
@@ -35,17 +33,36 @@ My work spans **SOC operations**, **cloud security engineering**, and **governan
 
 ## 💼 Professional Experience  
 
-### 🚀 Cyber Security Analyst &nbsp;|&nbsp; [Coupa Software](https://www.coupa.com/)  
-*Jul 2025 – Present · Remote (USA)*  
+### 🚀 Cyber Security Analyst | Coupa Software
+Jul 2025 – Present · Remote (USA)
 
-![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk)  
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure)  
-![AWS](https://img.shields.io/badge/-AWS%20Security-232F3E?style=flat-square&logo=amazon-aws)  
+![Splunk](https://img.shields.io/badge/Splunk-black?style=flat&logo=splunk&logoColor=white)  
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
+![AWS Security](https://img.shields.io/badge/AWS%20Security-FF9900?style=flat&logo=amazonaws&logoColor=white)  
+![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-- Lead **cloud & on-prem SOC monitoring**, building Splunk and KQL detections for advanced threats.  
-- Perform **enterprise risk assessments** aligned with **NIST CSF, RMF, FedRAMP, and ISO 27001**.  
-- Harden AWS and Azure workloads using **GuardDuty, Security Hub, CloudTrail, and IAM least-privilege**.  
-- Collaborate with DevOps teams to embed security into CI/CD and automate response playbooks.
+- Lead cloud and on-prem SOC monitoring, building Splunk and KQL detections for advanced threat detection and correlation.  
+- Perform enterprise risk assessments aligned with NIST CSF, RMF, NIST SP 800-171, FedRAMP, and ISO 27001 frameworks.  
+- Harden AWS and Azure workloads by implementing GuardDuty, Security Hub, CloudTrail, and IAM least-privilege policies, reducing misconfigurations.  
+- Collaborate with DevOps teams to embed security into CI/CD pipelines, automate response playbooks, and improve SOC efficiency.
+
+
+### 💼 Cyber Security Analyst (Intern) | Coupa Software
+Jan 2025 – Jun 2025 · Remote (USA)
+
+![Splunk](https://img.shields.io/badge/Splunk-black?style=flat&logo=splunk&logoColor=white)  
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
+![Nessus](https://img.shields.io/badge/Nessus-009CDE?style=flat&logo=tenable&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+- Monitored cloud and on-prem logs using Splunk and Microsoft Sentinel, investigating 50+ daily alerts and mapping threats via MITRE ATT&CK.  
+- Supported SOX, HIPAA, and NIST SP 800-171 (Rev 2) control testing through ProcessUnity and ServiceNow GRC to ensure audit readiness.  
+- Performed vulnerability management using Nessus, tracking remediation for 3,000+ findings.  
+- Automated alert parsing and reporting with Python and Linux scripts to enhance proactive threat detection.
+.  
+
+
+  
 
 ---
 
@@ -70,28 +87,30 @@ My work spans **SOC operations**, **cloud security engineering**, and **governan
 
 ---
 
-## 🛠 Skills
+## 🛠️ Skills  
 
 **Programming & Scripting**  
-`Python` `SQL` `Bash` `Linux` `Git`
+`Python` `SQL` `Bash` `Linux` `Git`  
 
 **Cloud & Platforms**  
 `AWS (IAM • GuardDuty • Security Hub • WAF • CloudTrail)`  
-`Azure (Entra ID / Azure AD • Defender)`
+`Azure (Entra ID / Azure AD • Defender)`  
 
 **Blue Team & Security**  
-`Splunk (SPL)` `Microsoft Sentinel (KQL)` `Nessus` `Qualys` `Rapid7`
+`Splunk (SPL)` `Microsoft Sentinel (KQL)` `Nessus` `Qualys` `Rapid7`  
 
 **Frameworks & GRC**  
-`NIST CSF` `NIST 800-53` `RMF` `CIS Controls` `MITRE ATT&CK / ATLAS`  
+`NIST CSF` `NIST SP 800-53` `NIST SP 800-171 (Rev 2 / Rev 3 familiarity)`  
+`RMF` `CIS Controls` `MITRE ATT&CK | MITRE ATLAS`  
 `Archer GRC` `OneTrust`
+
 
 ---
 
 ## 🎓 Certifications
 - Google **Cybersecurity Professional Certificate**  
 - Splunk Fundamentals: *Intro to Splunk*, *Getting Data In*, *Using Fields*  
-- ISC2 **Certified in Cybersecurity (CC)** — 
+- ISC2 **Certified in Cybersecurity (CC)** 
 - CompTIA Security+
 
 ---
