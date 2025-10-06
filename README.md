@@ -1,7 +1,7 @@
 <!-- PROFILE README FOR: Kirankumar2887138 -->
 
 <h1 align="center">Hi 👋, I'm Kiran Kumar Gaddi</h1>
-<h3 align="center">Cybersecurity & GRC Analyst | SOC • Cloud Security • AI Security</h3>
+<h3 align="center">Cyber Security Analyst | SOC Analyst | GRC Analyst | IAM Analyst | Cloud Security Analyst  | AI Security</h3>
 
 <h3 align="center">
 🚀 “Securing Cloud, Defending Data, Empowering Trust.”
@@ -9,16 +9,26 @@
 
 ---
 
-## 🙋‍♂️ About Me
-I’m Kiran Kumar Gaddi, a **Cyber Security Analyst** with a Master’s in Cybersecurity from **Saint Peter’s University** and hands-on experience protecting enterprise environments in the U.S. market.  
-My work spans **SOC operations, cloud security engineering, and governance & risk management**, helping organizations stay ahead of today’s fast-evolving threat landscape.
+## 👋 About Me
 
-- 🛡️ **Current Role:** Delivering risk assessments, SOC monitoring, and incident response for a global SaaS company—aligning controls with **NIST CSF, RMF, and ISO 27001**.  
-- ☁️ **Cloud Security Focus:** Hardening AWS and Azure workloads, implementing GuardDuty, Security Hub, and Microsoft Sentinel detections.  
-- 📊 **Threat Detection & Response:** Building Splunk and KQL/SPL queries, tuning detections, and automating playbooks to reduce mean time to respond.  
-- 🤝 **Leadership & Collaboration:** Partnering with DevOps, engineering, and compliance teams to embed security into CI/CD and enterprise policy frameworks.  
-- 🎯 **Professional Goal:** Continue advancing as a **Cloud Security / SOC / GRC specialist**, driving enterprise security architecture and threat-hunting programs.  
-- ⚡ **Fun fact:** When I’m off the clock, **learning how AI transforms cybersecurity**, keeping up with new models, SOC automation trends, and AI-driven detection techniques.
+I’m **Kiran Kumar Gaddi**, a Cyber Security Analyst with a Master’s in Cybersecurity from Saint Peter’s University and hands-on experience safeguarding enterprise and cloud environments in the U.S. market.
+
+My work spans **SOC operations**, **cloud security engineering**, and **governance, risk, and compliance (GRC)** — helping organizations stay ahead of today’s fast-evolving threat landscape.
+
+---
+
+🛡️ **Current Role:** Delivering **risk assessments**, **SOC monitoring**, and **incident response** for a global SaaS company — aligning security controls with **NIST CSF**, **RMF**, **NIST SP 800-171 (Rev 2 / Rev 3 familiarity)**, and **ISO 27001** frameworks.
+
+☁️ **Cloud Security Focus:** Conducting **log analysis**, **vulnerability triage**, and **threat hunting** aligned with **MITRE ATT&CK**, while implementing **Zero Trust** principles using **Azure AD MFA**, **conditional access**, and **privileged access reviews**.
+
+📊 **Threat Detection & Response:** Building **Splunk** and **KQL/SPL queries**, tuning detections, and automating playbooks to reduce mean time to respond (MTTR).
+
+🤝 **Leadership & Collaboration:** Partnering with **DevOps, engineering, and compliance teams** to embed security into **CI/CD pipelines**, while contributing to **GRC operations** using **Archer**, **OneTrust**, and **ServiceNow** to maintain audit readiness.
+
+🎯 **Professional Goal:** To advance as a **Cloud Security / SOC / GRC Specialist**, driving secure architecture, continuous monitoring, and compliance with emerging **NIST SP 800-171 Rev 3** and **CMMC 2.0** standards.
+
+⚡ **Fun Fact:** When I’m off the clock, I love exploring how **AI and machine learning** are transforming cybersecurity — from automated detection to adaptive threat intelligence.
+
 
 
 ---
@@ -109,7 +119,7 @@ My work spans **SOC operations, cloud security engineering, and governance & ris
 </p>
 
 > 🛡️ **Focus for 2025:**  
-> Mastering **cloud-native threat detection**, **EDR/XDR operations**, and **AI/LLM security** to stay ahead in the next wave of cybersecurity challenges.
+> Advancing expertise in cloud-native threat detection, EDR/XDR operations, and AI-driven security (LLM/GenAI defense) while aligning with NIST SP 800-171 Rev 3 and CMMC 2.0 compliance frameworks.
 
 ---
 
