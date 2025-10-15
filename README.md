@@ -252,8 +252,7 @@ Jan 2025 – Jun 2025 · Remote (USA)
 
 ---
 
-## 🎮 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kirankumar2887138&theme=react-dark)
+
 ![Snake – Dark](https://raw.githubusercontent.com/Kirankumar2887138/Kirankumar2887138/output/github-snake-dark.svg)
 
 ---
