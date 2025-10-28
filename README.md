@@ -79,7 +79,7 @@ Jan 2025 – Jun 2025 · Remote (USA)
 ---
 
 ### 🎓 Graduate Research & Labs &nbsp;|&nbsp; Saint Peter’s University  
-*Feb 2024 – May 2025 · Jersey City, NJ*  
+*Aug 2023 – May 2025 · Jersey City, NJ*  
 
 - **Capstone Project – “AIShield Sentinel”**: Phishing detection using XGBoost & VirusTotal API.  
 - Labs on **Blockchain security (Hyperledger, IBM Blockchain)** and **Advanced Offensive Security**.  
@@ -112,6 +112,7 @@ Jan 2025 – Jun 2025 · Remote (USA)
 - Splunk Fundamentals: *Intro to Splunk*, *Getting Data In*, *Using Fields*  
 - ISC2 **Certified in Cybersecurity (CC)** 
 - CompTIA Security+
+- Microsoft Certified:** Security Operations Analyst Associate ( SC-200)**, Oct 2025
 
 ---
 
