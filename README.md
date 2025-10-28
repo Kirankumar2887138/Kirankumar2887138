@@ -112,7 +112,7 @@ Jan 2025 – Jun 2025 · Remote (USA)
 - Splunk Fundamentals: *Intro to Splunk*, *Getting Data In*, *Using Fields*  
 - ISC2 **Certified in Cybersecurity (CC)** 
 - CompTIA Security+
-- Microsoft Certified:** Security Operations Analyst Associate ( SC-200)**, Oct 2025
+- Microsoft Certified: Security Operations Analyst Associate (SC-200), Oct 2025
 
 ---
 
