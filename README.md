@@ -280,8 +280,7 @@ Jan 2025 – Jun 2025 · Remote (USA)
 
 ## 🔗 Quick Links
 - 📄 **My Résumé**  
-  [View Online](https://github.com/Kirankumar2887138/Kirankumar2887138/blob/main/Kiran_Resume_Now.pdf)
-
+[View Online](https://github.com/Kirankumar2887138/Kirankumar2887138/blob/main/Kiran_Kumar_Cybersecurity%20Analyst_Coupa.pdf)
 - 💼 **GitHub Portfolio**  
   [View All Projects](https://github.com/Kirankumar2887138)
 
