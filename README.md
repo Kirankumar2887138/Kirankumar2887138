@@ -158,7 +158,6 @@ Jan 2025 – Jun 2025 · Remote (USA)
 
 - Built a **dual-layer phishing detection engine** using **XGBoost** for URL feature analysis and a **real-time email-header validator** with VirusTotal API.  
 - Reduced false positives through feature engineering and automated retraining pipelines.  
-- <a href="https://github.com/Kirankumar2887138/ai-shield-sentinel"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
 
 </details>
 
@@ -173,7 +172,6 @@ Jan 2025 – Jun 2025 · Remote (USA)
 
 - Created a **safe, isolated lab** to simulate WannaCry’s infection chain and lateral movement.  
 - Mapped every step to the **MITRE ATT&CK framework** to document persistence and privilege-escalation tactics.  
-- <a href="https://github.com/Kirankumar2887138/wannacry-ransomware-simulation"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
 
 </details>
 
@@ -188,7 +186,6 @@ Jan 2025 – Jun 2025 · Remote (USA)
 
 - Performed **static and dynamic malware analysis** with Wireshark and ProcMon.  
 - Authored detection rules and created a defense playbook for SOC integration.  
-- <a href="https://github.com/Kirankumar2887138/malware-analysis-defense"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
 
 </details>
 
@@ -203,7 +200,6 @@ Jan 2025 – Jun 2025 · Remote (USA)
 
 - Designed and deployed **secure dApps** with Hyperledger and Multichain.  
 - Performed threat modeling and implemented **secure smart-contract patterns** to prevent re-entrancy and overflow attacks.  
-- <a href="https://github.com/Kirankumar2887138/smart-contract-development"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
 
 </details>
 
@@ -213,17 +209,11 @@ Jan 2025 – Jun 2025 · Remote (USA)
 <summary>🌐 <b>IoT Substation Monitoring</b></summary>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Kirankumar2887138&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&custom_title=Programming%20Languages&cache_seconds=21600&v=3"
-    height="155"
-    alt="languages graph"
-  />
+  <img src="https://img.shields.io/badge/TECH-IoT%20%7C%20MQTT%20%7C%20Cloud-blue?style=for-the-badge" alt="Tech: IoT | MQTT | Cloud">
 </p>
 
-
-- Engineered a **cloud-assisted IoT monitoring system** for real-time alerts in electric sub-stations.  
-- Integrated security considerations—data encryption, secure MQTT messaging, and anomaly detection.  
-- <a href="https://github.com/Kirankumar2887138/iot-substation-monitoring"><img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github"></a>
+- Engineered a **cloud-assisted IoT monitoring system** for real-time alerts in electric substations.  
+- Integrated security—**data encryption**, **secure MQTT messaging**, and **anomaly detection**.  
 
 </details>
 
