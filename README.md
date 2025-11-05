@@ -1,89 +1,101 @@
 <!-- PROFILE README FOR: Kirankumar2887138 -->
-
 <h1 align="center">Hi 👋, I'm Kiran Kumar Gaddi</h1>
-<h3 align="center">Cyber Security Analyst | SOC Analyst | GRC Analyst | IAM Analyst | Cloud Security Analyst  | AI Security</h3>
+<h3 align="center">Security Operations & Cloud Security • SOC • GRC • IAM • AWS/Azure • AI Security</h3>
+<p align="center"><em>🚀 Securing Cloud, Defending Data, Empowering Trust.</em></p>
 
-<h3 align="center">
-🚀 “Securing Cloud, Defending Data, Empowering Trust.”
-</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kirangaddi1119">
+    <img src="https://img.shields.io/badge/LinkedIn-Kiran%20Kumar%20Gaddi-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:kirankg2887138@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kirankg2887138%40gmail.com-red?logo=gmail" />
+  </a>
+  <a href="https://github.com/Kirankumar2887138">
+    <img src="https://img.shields.io/badge/GitHub-Kirankumar2887138-black?logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/NJ-Open%20to%20Relocate-0A66C2" />
+</p>
 
 
 ---
 ## 🙋‍♂️ About Me
-I’m **Kiran Kumar Gaddi**, a Cyber Security Analyst with a Master’s in Cybersecurity from **Saint Peter’s University**, with hands-on experience safeguarding enterprise and cloud environments in the U.S. market.
+I’m **Kiran Kumar Gaddi**, a Security Operations & Cloud Security Analyst with an **M.S. in Cybersecurity (Saint Peter’s University, 2025)**. I secure **Azure/AWS** environments end-to-end covering **SIEM monitoring, incident investigation, access governance, vulnerability remediation,** and **audit evidence** for compliance.
 
-My work spans **SOC operations**, **cloud security engineering**, and **governance, risk, and compliance (GRC)** — helping organizations stay ahead of today’s fast-evolving threat landscape.
+🛡️ **Current Role:** Delivering **risk assessments**, **SOC monitoring**, and **incident response** for a global SaaS org — aligning controls with **NIST CSF/RMF**, **NIST SP 800-171 (Rev 2 / Rev 3 familiarity)**, and **ISO 27001**.  
 
-🛡️ **Current Role:** Delivering **risk assessments**, **SOC monitoring**, and **incident response** for a global SaaS company — aligning security controls with **NIST CSF**, **RMF**, **NIST SP 800-171 (Rev 2 / Rev 3 familiarity)**, and **ISO 27001** frameworks.  
+☁️ **Cloud & Identity Focus:** Hardening **AWS** (GuardDuty, CloudTrail, Config, KMS) and **Entra ID/Azure AD** (**RBAC, MFA, Conditional Access, PIM**) using **Zero Trust** principles; driving least-privilege and secure access reviews.  
 
-☁️ **Cloud Security Focus:** Conducting **log analysis**, **vulnerability triage**, and **threat hunting** aligned with **MITRE ATT&CK**, while implementing **Zero Trust** principles using **Azure AD MFA**, **conditional access**, and **privileged access reviews**.  
+📊 **Threat Detection & Response:** Building/tuning detections in **Microsoft Sentinel (KQL)** and **Splunk (SPL)**; automating playbooks to cut **MTTR** and reduce alert fatigue.  
 
-📊 **Threat Detection & Response:** Building **Splunk** and **KQL/SPL queries**, tuning detections, and automating playbooks to reduce mean time to respond (MTTR).  
+🤝 **Collaboration & GRC:** Embedding security in **CI/CD** with **DevOps/Engineering/Compliance**; maintaining audit readiness with **ServiceNow, Archer, OneTrust** and clear evidence packs.  
 
-🤝 **Leadership & Collaboration:** Partnering with **DevOps, engineering, and compliance teams** to embed security into **CI/CD pipelines**, while contributing to **GRC operations** using **Archer**, **OneTrust**, and **ServiceNow** to maintain audit readiness.  
+🏆 **Selected Outcomes:** Reduced cloud **misconfigurations by 36%**, drove remediation of **70+ risks**, supported patching of **400+ CVEs**, and governed **1,200+ identities** via **RBAC/MFA/Conditional Access** with automated **SOX access reviews**.  
 
-🎯 **Professional Goal:** To advance as a **Cloud Security / SOC / GRC Specialist**, driving secure architecture, continuous monitoring, and compliance with emerging **NIST SP 800-171 Rev 3** and **CMMC 2.0** standards.  
+🎯 **Professional Goal:** Advance as a **Cloud Security / SOC / GRC Specialist**, focusing on **NIST SP 800-171 Rev 3** and **CMMC 2.0** readiness with cloud-native detections.  
 
-⚡ **Fun Fact:** When I’m off the clock, I love exploring how **AI and machine learning** are transforming cybersecurity — from automated detection to adaptive threat intelligence.
-
-
+⚡ **Fun Fact:** I explore how **AI/ML** strengthens cyber defense from smarter detections to adaptive threat intelligence.
 
 
 ---
 
 ## 💼 Professional Experience  
 
-### 🚀 Cyber Security Analyst | Coupa Software
-Jul 2025 – Present · Remote (USA)
+### 🚀 Cybersecurity Analyst | Coupa Software
+*Jul 2025 – Present · Remote (USA)*
 
 ![Splunk](https://img.shields.io/badge/Splunk-black?style=flat&logo=splunk&logoColor=white)  
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
 ![AWS Security](https://img.shields.io/badge/AWS%20Security-FF9900?style=flat&logo=amazonaws&logoColor=white)  
 ![Azure AD](https://img.shields.io/badge/Azure%20AD-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
-- Lead cloud and on-prem SOC monitoring, building Splunk and KQL detections for advanced threat detection and correlation.  
-- Perform enterprise risk assessments aligned with NIST CSF, RMF, NIST SP 800-171, FedRAMP, and ISO 27001 frameworks.  
-- Harden AWS and Azure workloads by implementing GuardDuty, Security Hub, CloudTrail, and IAM least-privilege policies, reducing misconfigurations.  
-- Collaborate with DevOps teams to embed security into CI/CD pipelines, automate response playbooks, and improve SOC efficiency.
+- Performed **risk assessments** aligned with **NIST CSF** and **RMF**, tracking and driving remediation for **70+ medium–critical risks** across cloud and on-prem.  
+- Enforced least-privilege by tuning **Azure AD RBAC/MFA/Conditional Access** for **1,200+ identities**; helped **automate SOX access reviews** via **ServiceNow** exports.  
+- Advanced **CIS/STIG** baselines for Linux, Windows, and AWS; verified via **SCAP** scans and supplied audit evidence.  
+- Added **Python-based policy/config validation** into **CI/CD** to flag misconfigs pre-deployment.  
+- Automated routine hardening and **audit-log collection** using **Bash/PowerShell** across Linux/Windows servers.  
+- Coordinated **Qualys/Rapid7** scans, opened/tracked remediation tickets, and improved **MTTR from 17 → 9 business days**.  
+- Maintained **SSPs**, **POA&Ms**, and risk assessments to support **NIST 800-171/800-53** and **ISO 27001** alignment.
 
+---
 
-### 💼 Cyber Security Analyst (Intern) | Coupa Software
-Jan 2025 – Jun 2025 · Remote (USA)
+### 💼 Cybersecurity Analyst (Intern) | Coupa Software
+*Jan 2025 – Jun 2025 · Remote (USA)*
 
 ![Splunk](https://img.shields.io/badge/Splunk-black?style=flat&logo=splunk&logoColor=white)  
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white)  
 ![Nessus](https://img.shields.io/badge/Nessus-009CDE?style=flat&logo=tenable&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-- Monitored cloud and on-prem logs using Splunk and Microsoft Sentinel, investigating 50+ daily alerts and mapping threats via MITRE ATT&CK.  
-- Supported SOX, HIPAA, and NIST SP 800-171 (Rev 2) control testing through ProcessUnity and ServiceNow GRC to ensure audit readiness.  
-- Performed vulnerability management using Nessus, tracking remediation for 3,000+ findings.  
-- Automated alert parsing and reporting with Python and Linux scripts to enhance proactive threat detection.
-.  
-
-
-  
+- Investigated **50+ daily alerts** across cloud/on-prem using **Splunk** and **Microsoft Sentinel**; mapped detections to **MITRE ATT&CK**.  
+- Supported **SOX, HIPAA, NIST 800-171** control testing via **ProcessUnity** and **ServiceNow GRC** to ensure audit readiness.  
+- Drove vulnerability management with **Nessus** for **3,000+ findings**; tracked remediation by CVSS and owners.  
+- Built **KQL/SQL dashboards** for login anomalies, privilege escalations, and MFA failures; published weekly trends for leads.  
+- Authored a **Python/Regex** script that parses Entra ID/SIEM auth logs and generates a **weekly incident summary**.
 
 ---
 
-### 🛡️ Junior Cyber Security Engineer &nbsp;|&nbsp; [Sage softtech](https://www.sagesoftsolutions.com/)  
-*Jan 2021 – Jul 2023 · Remote (India)*  
+### 🛡️ Junior Cybersecurity Analyst | Sage Softtech
+*Jan 2021 – Jul 2023  (India)*
 
 ![NIST](https://img.shields.io/badge/-NIST%20CSF-0A0A0A?style=flat-square)  
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)  
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
 
-- Designed and implemented **NIST-aligned security policies** and standard operating procedures.  
-- Supported internal audits and **regulatory compliance** (HIPAA, PCI-DSS, CIS benchmarks).  
-- Built scripts to automate log analysis and vulnerability reporting with **Python & Bash**.
+- Built and rolled out **NIST CSF** and **CIS Controls**-aligned policies and **IR SOPs**.  
+- Ran quarterly **risk assessments**; logged findings in **Archer** and coordinated remediation across **50+ apps**.  
+- Managed **AWS IAM** roles and **KMS** key rotations; enforced **MFA** and tagging standards for audit readiness.  
+- Supported **PCI-DSS** and **FFIEC** readiness with **100+ audit artifacts**.  
+- Tuned **Microsoft Defender** and delivered phishing-awareness sessions to cut user-impacting incidents.  
+- Hardened Linux/Windows using **CIS Benchmarks**, **Ansible**, **Bash/PowerShell**; verified with **CIS-CAT** and **Nessus**.
 
 ---
 
-### 🎓 Graduate Research & Labs &nbsp;|&nbsp; Saint Peter’s University  
-*Aug 2023 – May 2025 · Jersey City, NJ*  
+### 🎓 Graduate Research & Labs | Saint Peter’s University
+*Aug 2023 – May 2025 · Jersey City, NJ*
 
-- **Capstone Project – “AIShield Sentinel”**: Phishing detection using XGBoost & VirusTotal API.  
-- Labs on **Blockchain security (Hyperledger, IBM Blockchain)** and **Advanced Offensive Security**.  
-- Hands-on experience with **Splunk, SIEM, SQL, and Linux hardening** through Google Cybersecurity Professional Certificate.
+- Hands-on SOC labs with **Sentinel** and **Splunk** (alert triage, incident docs, escalations).  
+- Built a mini-lab forwarding **AWS GuardDuty** and **Azure Defender** alerts into **Sentinel**.  
+- Threat analysis mapped to **T1110 (Brute Force)** and **T1059 (Command & Scripting Interpreter)** with detections & playbooks.  
+- Drafted access control & data-handling procedures mapped to **NIST 800-171** for audit-style documentation.
 
 ---
 
